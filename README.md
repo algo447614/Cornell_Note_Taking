@@ -1,2 +1,2 @@
 # Note_Taking
-Personal note taking app that I use for my own
+Personal note taking app that I use for school. Program follows Cornell Note-taking System logic, where the program prompts for progress by next paragraph or next chapter. Main screen separates each entry by chapter and inner paragraph within. Program allows for summary of all notes, or summary and edit-ability through double-click on title of entry. Program also allows for text export of files. 
